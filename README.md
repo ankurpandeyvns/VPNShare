@@ -8,5 +8,5 @@ Run this command to setup the scripts according to your Mac.
 #### via curl
 
 ```shell
-curl  https://raw.githubusercontent.com/ankurpandeyvns/VPNShare/master/VPNShare.py | sudo python -
+python <(curl -s -N https://raw.githubusercontent.com/ankurpandeyvns/VPNShare/master/VPNShare.py)
 ```
