@@ -11,4 +11,6 @@ Run this command to setup the scripts according to your Mac.
 python <(curl -s -N https://raw.githubusercontent.com/ankurpandeyvns/VPNShare/master/VPNShare.py)
 ```
 
+## Video Tutorial
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/98xLQ6Fd1cI/0.jpg)](http://www.youtube.com/watch?v=98xLQ6Fd1cI "Share OpenVPN Connection on MacOS Mojave/Sierra/High Sierra - D Tech Terminal")
