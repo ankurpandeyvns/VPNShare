@@ -8,7 +8,7 @@ Run this command to setup the scripts according to your Mac.
 #### via curl
 
 ```shell
-python <(curl -s -N https://raw.githubusercontent.com/ankurpandeyvns/VPNShare/master/VPNShare.py)
+python3 <(curl -s -N https://raw.githubusercontent.com/ankurpandeyvns/VPNShare/master/VPNShare.py)
 ```
 
 ## Video Tutorial
